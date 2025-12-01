@@ -48,17 +48,6 @@ Para parar o cronômetro crescente ou interromper a contagem regressiva pression
   - Adicionar argumentos de linha de comando (ex.: `--start-countdown 60`).
   - Registrar tempos/voltar para múltiplas voltas (lap times).
 
-## 📄 Licença
 
-Sem licença definida no repositório. Se quiser, adicione uma (ex.: MIT) para deixar claro os termos de uso.
 
----
 
-Se quiser, eu posso também:
-- adaptar o código para suportar macOS/Linux;
-- adicionar opções por linha de comando;
-- ou incluir testes automáticos e instruções de contribuição.
-
----
-
-Feito com ❤️ — se quiser que eu gere também um `LICENSE` ou adapte o script, me diga qual plataforma/recursos prefere.
